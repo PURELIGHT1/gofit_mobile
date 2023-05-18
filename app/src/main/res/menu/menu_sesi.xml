@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/sesi1"
+        android:title="Sesi 1 (08.00)"/>
+
+    <item
+        android:id="@+id/sesi2"
+        android:title="Sesi 2 (09.30)" />
+
+    <item
+        android:id="@+id/sesi3"
+        android:title="Sesi 3 (17.00)" />
+
+    <item
+        android:id="@+id/sesi4"
+        android:title="Sesi 4 (18.30)"/>
+</menu>
